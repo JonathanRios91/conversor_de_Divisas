@@ -21,9 +21,9 @@ Las cuales puedes programar segun la necesidad.
 ---
 Se creo un menu principal con tres opciones enumeradas del 1 al 3 con las cuales el usuario podra hacer:
 
-1- Hcaer conversiones.
-2- cunsultar Historial de conversiones.
-3- salir del programa.
+- 1- Hcaer conversiones.
+- 2- cunsultar Historial de conversiones.
+- 3- salir del programa.
 
 Tambien hay mensajes de alerta los cuales ayudaran al usuario a ingresar la informacion correcta si no ingresa los valores como se describen.
 
