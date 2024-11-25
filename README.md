@@ -6,8 +6,8 @@
 ## Tabla de contenidos:
 ---
 - [Descripción y contexto](#Descripción)
-- [Guía de usuario](#Quía-de-usuario)
-- [Autor](#autor)
+- [Guía de usuario](#Guía-de-usuario)
+- [Autor](#Autor)
 
 ## Descripción
 ---
