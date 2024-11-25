@@ -13,19 +13,17 @@
 ---
 El conversor de divisas es un programa que ayuda al usuario hacer conversión entre varias de las principales divisas del mercado, pero que se puede ajustar a otras divisas
 (para cambiar a otras divisas, por favor consultar en la página los documentos de la API).
-El programa inicia con un menú sencillo que cuenta solo con 3 pasos para ejecutarse, el primer paso es ingresar la divisa inicial, segundo paso es digitar la divisa a la cual deseas convertir y por último ingresar el valor a convertir, pero además cuenta con la opción de seguir haciendo más conversiones guardando el historial que al final podrás consultar. Cuando el usuario ya no desea hacer más conversiones, solo tiene que digitar la opción 3 para finalizar el programa.
-
-
 - code coverage percentage:
 - ![coverage](https://img.shields.io/badge/coverage-60%25-yellowgreen)
 
 ## Guía de usuario
 ---
-Se creo un menu principal con tres opciones enumeradas del 1 al 3 con las cuales el usuario podra hacer:
+El programa inicia con un menú sencillo que cuenta solo con 3 pasos para ejecutarse, el primer paso es ingresar la divisa inicial, segundo paso es digitar la divisa a la cual deseas convertir y por último ingresar el valor a convertir, pero además cuenta con la opción de seguir haciendo más conversiones guardando el historial que al final podrás consultar.
+Cuando el usuario ya no desea hacer más conversiones, solo tiene que digitar la opción 3 para finalizar el programa.
 
-- 1- Hcaer conversiones.
-- 2- cunsultar Historial de conversiones.
-- 3- salir del programa.
+- 1- Hacer conversiones.
+- 2- Consultar Historial de conversiones.
+- 3- Salir del programa.
 
 Tambien hay mensajes de alerta los cuales ayudaran al usuario a ingresar la informacion correcta si no ingresa los valores como se describen.
 
