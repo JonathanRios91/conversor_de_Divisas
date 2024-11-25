@@ -7,9 +7,9 @@
 ---
 - [Descripción y contexto](#Descripción)
 - [Guía de usuario](#Quía-de-usuario)
-- [Autor/es](#autores)
+- [Autor](#autor)
 
-## Descripción y contexto.
+## Descripción
 ---
 El converor de divisas es un prograga que ayuda al usuario a consultaer el valor actual de una divisa con ayuda de una Api, que tambien no va a facilitar hacer la conversion a otras divisas.
 Las cuales puedes programar segun la necesidad.
